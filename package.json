@@ -1,1 +1,1 @@
-
+npm install express mongoose pdf-lib bcryptjs jsonwebtoken dotenv
